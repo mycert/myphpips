@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/7/trunk/IDS
+END
+MyPHPIPS.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/IDS/MyPHPIPS.php
+END
+Report.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/7/trunk/IDS/Report.php
+END
+CoreConf.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/IDS/CoreConf.php
+END
+Event.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/7/trunk/IDS/Event.php
+END
+mycert_filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/IDS/mycert_filter.xml
+END
+default_filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/IDS/default_filter.xml
+END
+Init.php
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/7/trunk/IDS/Init.php
+END
+Storage.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/IDS/Storage.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/IDS/README.txt
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10/trunk/IDS/Config.php
+END
+Filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/7/trunk/IDS/Filter.php
+END
+Monitor.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/IDS/Monitor.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/7/trunk/IDS/index.php
+END
+Converter.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/7/trunk/IDS/Converter.php
+END
